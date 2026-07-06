@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ScreenShots/HOME.jpg" alt="StaySphere banner" width="100%" />
+<img src="./screenshots/home.jpg" alt="StaySphere banner" width="100%" />
 
 # 🏡 StaySphere
 
@@ -116,7 +116,7 @@ The application follows the **MVC (Model–View–Controller)** architecture and
 <td width="50%">
 
 **Home — Browse Listings**
-<img src="./ScreenShots/HOME.jpg" alt="Home page with listing cards" width="100%" />
+<img src="./screenshots/home.jpg" alt="Home page with listing cards" width="100%" />
 
 </td>
 <td width="50%">
@@ -144,7 +144,7 @@ The application follows the **MVC (Model–View–Controller)** architecture and
 <td width="50%">
 
 **Interactive Map**
-<img src="./screenShots/map.jpg" alt="Mapbox location view" width="100%" />
+<img src="./screenshots/map.jpg" alt="Mapbox location view" width="100%" />
 
 </td>
 <td width="50%">
