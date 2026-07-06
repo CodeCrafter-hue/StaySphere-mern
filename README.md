@@ -36,6 +36,7 @@ A **full-stack vacation rental platform** inspired by Airbnb — explore unique 
 ## 📑 Table of Contents
 
 - [Project Overview](#project-overview)
+- [Demo Credentials](#-demo-credentials)
 - [Live Demo](#-live-demo)
 - [Key Features](#-key-features)
 - [Screenshots](#-screenshots)
@@ -66,6 +67,8 @@ StaySphere is a full-stack vacation rental platform that lets travelers discover
 
 The application follows the **MVC (Model–View–Controller)** architecture and implements secure authentication, ownership-based authorization, cloud image uploads, interactive maps, session management, server-side validation, and a complete CRUD workflow — showing how modern web apps combine frontend templating, backend services, cloud storage, third-party APIs, and a database into one scalable platform.
 
+
+
 ---
 
 ## 🔗 Live Demo
@@ -78,6 +81,17 @@ The application follows the **MVC (Model–View–Controller)** architecture and
 > ⚠️ Hosted on Render's free tier — the server spins down after inactivity, so the first request may take **30–60 seconds** to wake up.
 
 ---
+
+## 🔑 Demo Credentials
+
+Want to explore without creating an account? Log in with:
+
+| Field | Value |
+|---|---|
+| Username | `test` |
+| Password | `12345` |
+
+> ℹ️ This is a shared demo account for reviewers — please don't store any personal information in it, and note that other visitors can see/edit data created under this login.
 
 ## ✨ Key Features
 
