@@ -122,7 +122,7 @@ The application follows the **MVC (Model–View–Controller)** architecture and
 <td width="50%">
 
 **Listing Detail**
-<img src="./ScreenShots/EDIT.jpg" alt="Listing detail page" width="100%" />
+<img src="./screenshots/edit.jpg" alt="Listing detail page" width="100%" />
 
 </td>
 </tr>
@@ -130,13 +130,13 @@ The application follows the **MVC (Model–View–Controller)** architecture and
 <td width="50%">
 
 **Create a New Listing**
-<img src="./ScreenShots/New_.jpg" alt="Create listing form" width="100%" />
+<img src="./screenshots/new.jpg" alt="Create listing form" width="100%" />
 
 </td>
 <td width="50%">
 
 **Edit a Listing**
-<img src="./ScreenShots/EDIT1.jpg" alt="Edit listing form" width="100%" />
+<img src="./screenshots/edit1.jpg" alt="Edit listing form" width="100%" />
 
 </td>
 </tr>
@@ -144,13 +144,13 @@ The application follows the **MVC (Model–View–Controller)** architecture and
 <td width="50%">
 
 **Interactive Map**
-<img src="./ScreenShots/Map.jpg" alt="Mapbox location view" width="100%" />
+<img src="./screenShots/map.jpg" alt="Mapbox location view" width="100%" />
 
 </td>
 <td width="50%">
 
 **Reviews & Ratings**
-<img src="./ScreenShots/Review.jpg" alt="Reviews section" width="100%" />
+<img src="./screenshots/review.jpg" alt="Reviews section" width="100%" />
 
 </td>
 </tr>
@@ -158,13 +158,13 @@ The application follows the **MVC (Model–View–Controller)** architecture and
 <td width="50%">
 
 **Login**
-<img src="./ScreenShots/Login.jpg" alt="Login page" width="100%" />
+<img src="./screenshots/login.jpg" alt="Login page" width="100%" />
 
 </td>
 <td width="50%">
 
 **Sign Up**
-<img src="./ScreenShots/Signup.jpg" alt="Sign up page" width="100%" />
+<img src="./screenshots/signup.jpg" alt="Sign up page" width="100%" />
 
 </td>
 </tr>
